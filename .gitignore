@@ -1,2 +1,4 @@
 data/
 prepared-data/
+.DS_Store
+*.Rproj
