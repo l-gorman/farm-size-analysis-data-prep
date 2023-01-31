@@ -1,0 +1,5 @@
+~%2Fresearch%2Fphd%2Ffarm-size-modelling-final%2Fdata-preperation%2F.gitignore="DDD170ED"
+~%2Fresearch%2Fphd%2Ffarm-size-modelling-final%2Fdata-preperation%2FREADME.md="FD253275"
+~%2Fresearch%2Fphd%2Ffarm-size-modelling-final%2Fdata-preperation%2Frenv.lock="B12C1F30"
+~%2Fresearch%2Fphd%2Ffarm-size-modelling-final%2Fdata-preperation%2Fsrc%2Fdata-prep%2F01-extracting-point-values-lsms.R="6624C85B"
+~%2Fresearch%2Fphd%2Ffarm-size-modelling-final%2Fdata-preperation%2Fsrc%2Fdata-prep%2F02-bind-point-and-area-data.R="80741822"

@@ -1,0 +1,27 @@
+{
+    "id": "75641486",
+    "path": "~/research/phd/farm-size-modelling-final/data-preperation/src/data-prep/02-bind-point-and-area-data.R",
+    "project_path": "src/data-prep/02-bind-point-and-area-data.R",
+    "type": "r_source",
+    "hash": "2066710457",
+    "contents": "",
+    "dirty": false,
+    "created": 1675173461429.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "132,36",
+        "scrollLine": "121",
+        "marks": "<:132,33\n>:132,41"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1675173613,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1675173613992,
+    "read_only": false,
+    "read_only_alternatives": []
+}

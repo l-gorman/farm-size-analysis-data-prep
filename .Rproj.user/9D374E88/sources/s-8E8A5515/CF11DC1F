@@ -1,0 +1,26 @@
+{
+    "id": "CF11DC1F",
+    "path": "~/research/phd/farm-size-modelling-final/data-preperation/src/data-prep/01-extracting-point-values-lsms.R",
+    "project_path": "src/data-prep/01-extracting-point-values-lsms.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1675173322206.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "16,17",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1674814931,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1674814931,
+    "read_only": false,
+    "read_only_alternatives": []
+}
