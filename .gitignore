@@ -2,3 +2,5 @@ data/
 prepared-data/
 .DS_Store
 *.Rproj
+.Rproj.user/
+*Rproj.user
